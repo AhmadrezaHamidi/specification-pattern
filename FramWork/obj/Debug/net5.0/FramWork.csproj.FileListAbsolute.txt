@@ -1,0 +1,12 @@
+F:\Specification\FramWork\bin\Debug\net5.0\FramWork.deps.json
+F:\Specification\FramWork\bin\Debug\net5.0\FramWork.dll
+F:\Specification\FramWork\bin\Debug\net5.0\FramWork.pdb
+F:\Specification\FramWork\obj\Debug\net5.0\FramWork.csproj.AssemblyReference.cache
+F:\Specification\FramWork\obj\Debug\net5.0\FramWork.GeneratedMSBuildEditorConfig.editorconfig
+F:\Specification\FramWork\obj\Debug\net5.0\FramWork.AssemblyInfoInputs.cache
+F:\Specification\FramWork\obj\Debug\net5.0\FramWork.AssemblyInfo.cs
+F:\Specification\FramWork\obj\Debug\net5.0\FramWork.csproj.CoreCompileInputs.cache
+F:\Specification\FramWork\obj\Debug\net5.0\FramWork.dll
+F:\Specification\FramWork\obj\Debug\net5.0\refint\FramWork.dll
+F:\Specification\FramWork\obj\Debug\net5.0\FramWork.pdb
+F:\Specification\FramWork\obj\Debug\net5.0\ref\FramWork.dll

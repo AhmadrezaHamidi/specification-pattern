@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Start/1.0.0": {
+        "dependencies": {
+          "FramWork": "1.0.0"
+        },
+        "runtime": {
+          "Start.dll": {}
+        }
+      },
+      "FramWork/1.0.0": {
+        "runtime": {
+          "FramWork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Start/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FramWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
